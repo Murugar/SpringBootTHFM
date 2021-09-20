@@ -1,1 +1,1 @@
-Hello world From FreeMarker
+Hello From FreeMarker

@@ -26,9 +26,9 @@ public class IndexController {
 	@RequestMapping("/ajaxJson")
 	public List<String> ajaxJson() {
 		List<String> jsons = new ArrayList<>();
-		jsons.add("sss");
-		jsons.add("zzz");
-		jsons.add("yyy");
+		jsons.add("Test1");
+		jsons.add("Test2");
+		jsons.add("Test3");
 		return jsons;
 }
 }
